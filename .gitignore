@@ -3,3 +3,8 @@ vector_store/
 app.log
 __pycache__/
 *.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.log
