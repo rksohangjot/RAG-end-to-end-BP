@@ -1,0 +1,5 @@
+.env
+vector_store/
+app.log
+__pycache__/
+*.pyc
